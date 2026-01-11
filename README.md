@@ -1,5 +1,8 @@
 # Claude Code Workflow
 
+![Uploading image.png…]()
+
+
 Claude Code의 핵심 사용 원칙과 생산성 높은 워크플로 구축 방법에 대한 연구 저장소입니다.
 
 ## 목차
