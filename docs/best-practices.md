@@ -1,5 +1,7 @@
 # 모범 사례
 
+> **학습 경로**: [시작하기](getting-started.md) → [핵심 원칙](principles.md) → 모범 사례 | [↑ 목차](../README.md)
+
 Claude Code를 사용한 생산성 높은 개발을 위한 모범 사례입니다.
 
 ## 세션 관리

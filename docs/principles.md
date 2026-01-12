@@ -1,5 +1,7 @@
 # 핵심 사용 원칙
 
+> **학습 경로**: [시작하기](getting-started.md) → 핵심 원칙 → [모범 사례](best-practices.md) | [↑ 목차](../README.md)
+
 Claude Code를 효과적으로 사용하기 위한 핵심 원칙들입니다.
 
 ## 1. 명확한 컨텍스트 제공

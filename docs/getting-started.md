@@ -1,5 +1,7 @@
 # 시작하기
 
+> **학습 경로**: 시작하기 → [핵심 원칙](principles.md) → [모범 사례](best-practices.md) | [↑ 목차](../README.md)
+
 Claude Code를 효과적으로 사용하기 위한 기본 가이드입니다.
 
 ## 설치

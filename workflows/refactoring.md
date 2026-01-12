@@ -70,3 +70,9 @@ any 타입을 구체적인 타입으로 변경해줘
 ```
 이 코드에 Repository 패턴을 적용해줘
 ```
+
+## 관련 문서
+
+- [리팩토링 프롬프트 예제](../examples/prompts/refactoring.md) - 더 많은 리팩토링 프롬프트
+- [코드 리뷰 워크플로](code-review.md) - 리팩토링 후 리뷰 요청
+- [디버깅 워크플로](debugging.md) - 리팩토링 중 버그 발생 시

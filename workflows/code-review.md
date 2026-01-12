@@ -48,3 +48,9 @@ claude "리뷰 코멘트를 작성해줘"
 ```
 src/services/auth.ts의 변경사항을 보안 관점에서 검토해줘
 ```
+
+## 관련 문서
+
+- [코드 분석 프롬프트 예제](../examples/prompts/code-analysis.md) - 더 많은 분석 프롬프트
+- [디버깅 워크플로](debugging.md) - 버그 발견 시 후속 작업
+- [리팩토링 워크플로](refactoring.md) - 코드 개선 시 후속 작업

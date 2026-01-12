@@ -80,9 +80,13 @@ PR 생성 시 [템플릿](/.github/PULL_REQUEST_TEMPLATE.md)이 자동으로 적
 
 ## 행동 강령
 
+이 프로젝트는 [Contributor Covenant 행동 강령](CODE_OF_CONDUCT.md)을 따릅니다.
+
 - 서로 존중하고 건설적인 피드백을 제공합니다
 - 다양한 의견과 경험을 환영합니다
 - 커뮤니티의 성장에 기여합니다
+
+자세한 내용은 [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md)를 참조하세요.
 
 ## 도움이 필요하신가요?
 
